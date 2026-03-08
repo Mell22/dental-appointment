@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pearlsmile/static/css/main.29a7e5e4.css",
-    "main.js": "/pearlsmile/static/js/main.d8c9c583.js",
-    "index.html": "/pearlsmile/index.html",
-    "main.29a7e5e4.css.map": "/pearlsmile/static/css/main.29a7e5e4.css.map",
-    "main.d8c9c583.js.map": "/pearlsmile/static/js/main.d8c9c583.js.map"
+    "main.css": "/dental-appointment/static/css/main.29a7e5e4.css",
+    "main.js": "/dental-appointment/static/js/main.d8c9c583.js",
+    "index.html": "/dental-appointment/index.html",
+    "main.29a7e5e4.css.map": "/dental-appointment/static/css/main.29a7e5e4.css.map",
+    "main.d8c9c583.js.map": "/dental-appointment/static/js/main.d8c9c583.js.map"
   },
   "entrypoints": [
     "static/css/main.29a7e5e4.css",
