@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pearlsmile/static/css/main.29a7e5e4.css",
+    "main.js": "/pearlsmile/static/js/main.d8c9c583.js",
+    "index.html": "/pearlsmile/index.html",
+    "main.29a7e5e4.css.map": "/pearlsmile/static/css/main.29a7e5e4.css.map",
+    "main.d8c9c583.js.map": "/pearlsmile/static/js/main.d8c9c583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29a7e5e4.css",
+    "static/js/main.d8c9c583.js"
+  ]
+}
